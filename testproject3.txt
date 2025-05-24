@@ -1,1 +1,2 @@
 ECHO est  ativado.
+test aula 34
