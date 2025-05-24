@@ -1,1 +1,2 @@
-ECHO est  ativado.
+ECHO estï¿½ ativado.
+Teste aula 45
